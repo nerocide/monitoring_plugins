@@ -1,2 +1,2 @@
 # monitoring_plugins
-Nagios like plugins
+This repository contains Nagios like plugins
