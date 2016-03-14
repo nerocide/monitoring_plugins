@@ -465,7 +465,7 @@ sub print_help {
   printf("   e.g: used on linux in net-snmp agent.\n\n");
   printf("-t (--timeout)      Timeout in seconds (default=%d)\n",DEFAULT_TIMEOUT);
   printf("-H (--hostname)     Host to monitor\n");
-  printf("-d (--device)       Disk to monitor name or regex (ie: ^sda$ or sda[1-3])\n");
+  printf("-d (--device)       Disk to monitor name or regex (ie: ^sda$ or sda[1-3])\n)";
   printf("-s (--snmpvers)     SNMP Version [1|2|3] (default=%d)\n",DEFAULT_SNMPVERS);
   printf("-C (--community)    SNMP Community (default=%s)\n",DEFAULT_COMMUNITY);
   printf("-p (--port)         SNMP Port (default=%d)\n",DEFAULT_PORT);
