@@ -1,5 +1,7 @@
-Source script written by hstadler downloaded from https://exchange.nagios.org/directory/Plugins/Network-Protocols/SNMP/Check-DiskIO-via-SNMP/details
+Disk IO over SNMP
+=================
 
+Source script written by hstadler downloaded from https://exchange.nagios.org/directory/Plugins/Network-Protocols/SNMP/Check-DiskIO-via-SNMP/details
 
 New features:
 	- if no selection made, retreive all device IO/s
